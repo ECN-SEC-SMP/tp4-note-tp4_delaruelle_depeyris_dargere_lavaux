@@ -24,3 +24,5 @@ La documentation sera générée dans le répertoire "doc".
 Pour visualiser la documentation, ouvrez le fichier "index.html" dans un navigateur.
 
 **Auteurs :** DARGERE Lucas, DELARUELLE Hugo, DEPEYRIS Julien, LAVAUX Bastien
+
+Lien git original : https://github.com/hugodlrll/CPP_TP4
